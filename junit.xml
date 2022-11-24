@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="9" failures="0" errors="0" time="4.217">
+  <testsuite name="FlexWorkerName" errors="0" failures="0" skipped="0" timestamp="2022-11-24T15:12:59" time="1.927" tests="1">
+    <testcase classname="FlexWorkerName component should load data from flex redux store" name="FlexWorkerName component should load data from flex redux store" time="0.039">
+    </testcase>
+  </testsuite>
+  <testsuite name="CustomTaskList" errors="0" failures="0" skipped="0" timestamp="2022-11-24T15:12:59" time="2.011" tests="2">
+    <testcase classname="CustomTaskList should load and display dismissable component" name="CustomTaskList should load and display dismissable component" time="0.076">
+    </testcase>
+    <testcase classname="CustomTaskList should dismiss component" name="CustomTaskList should dismiss component" time="0.025">
+    </testcase>
+  </testsuite>
+  <testsuite name="Custom Caller Id" errors="0" failures="0" skipped="0" timestamp="2022-11-24T15:12:59" time="2.025" tests="1">
+    <testcase classname="Custom Caller Id replace caller id from flex config" name="Custom Caller Id replace caller id from flex config" time="0.087">
+    </testcase>
+  </testsuite>
+  <testsuite name="RemoteStatus" errors="0" failures="0" skipped="0" timestamp="2022-11-24T15:12:59" time="2.041" tests="2">
+    <testcase classname="RemoteStatus should load and display component with available status" name="RemoteStatus should load and display component with available status" time="0.065">
+    </testcase>
+    <testcase classname="RemoteStatus should load and display component with maintainance status" name="RemoteStatus should load and display component with maintainance status" time="0.02">
+    </testcase>
+  </testsuite>
+  <testsuite name="Auto Accept call" errors="0" failures="0" skipped="0" timestamp="2022-11-24T15:12:59" time="2.093" tests="1">
+    <testcase classname="Auto Accept call auto accept call in 6 seconds" name="Auto Accept call auto accept call in 6 seconds" time="0.067">
+    </testcase>
+  </testsuite>
+  <testsuite name="Flex UI" errors="0" failures="0" skipped="0" timestamp="2022-11-24T15:12:59" time="2.531" tests="2">
+    <testcase classname="Flex UI plugin initialized tests" name="Flex UI plugin initialized tests" time="0.079">
+    </testcase>
+    <testcase classname="Flex UI Enabling agentNameWithinHeader" name="Flex UI Enabling agentNameWithinHeader" time="0.06">
+    </testcase>
+  </testsuite>
+</testsuites>
